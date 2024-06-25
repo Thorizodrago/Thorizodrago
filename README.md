@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Efe. I am learning Web3 for now. 
+Hi, my name is Efe. I am learning Web3 for now. My repositories are private for now. I will share them after development.
 
 
 # 💻 Tech Stack:
