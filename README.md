@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, my name is Efe. I am learning Web3 and IOT for now. 
 
 
 # 💻 Tech Stack:
