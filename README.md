@@ -10,6 +10,8 @@ Hi, my name is Efe. But people usually call me Thor. I'm currently learning web3
 ![Static Badge](https://img.shields.io/badge/CSS3-%20%20%230051ff%20?style=for-the-badge&logo=CSS3&logoColor=%20%23ffffff%20&labelColor=%20%23719eff%20)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%20%20%20%23ffdd00%20?style=for-the-badge&logo=ubuntu&logoColor=ffffff&labelColor=%20%23ff9d00%20)
 ![Static Badge](https://img.shields.io/badge/42%20%C4%B0stanbul-%20%20%20%2300ab36%20?style=for-the-badge&logo=42&logoColor=ffffff&labelColor=%20%2300d544%20)
+![Static Badge](https://img.shields.io/badge/Solana-%20%23581845%20?style=for-the-badge&logo=solana&logoColor=ffffff&labelColor=%20%23900C3F%20)
+
 
 
 
