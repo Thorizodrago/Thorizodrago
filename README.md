@@ -54,6 +54,6 @@ Hi, my name is Efe. But people usually call me Thor. I'm currently learning web3
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Thorizodrago&label=Hub%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Thorizodrago&label=Viewers%3A&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 
