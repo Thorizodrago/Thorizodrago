@@ -1,4 +1,5 @@
 # 💫 About me:
+<div align="center">
 Hi, my name is Efe. But people usually call me Thor. I'm currently learning web3. I am learning Rust as a software language. I am also very interested in artificial intelligence, and my future plans include learning artificial intelligence as well. Working hard, for my future. I am an electrical-electronics engineering student at a university. 
 
 
@@ -22,8 +23,6 @@ Hi, my name is Efe. But people usually call me Thor. I'm currently learning web3
 
 
 
-
-<div align="center">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -45,7 +44,10 @@ Hi, my name is Efe. But people usually call me Thor. I'm currently learning web3
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+
 ```
+</div>
   
 </div>
 
