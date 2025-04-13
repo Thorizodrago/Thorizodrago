@@ -29,7 +29,7 @@ Hi, my name is Efe. But people usually call me Thor. Originally, i am a game dev
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
-
+<div>
  
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
