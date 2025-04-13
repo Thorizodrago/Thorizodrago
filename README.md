@@ -6,12 +6,17 @@ Hi, my name is Efe. But people usually call me Thor. Originally, i am a game dev
 
 
 # My Lifestyle 💻:
-![Static Badge](https://img.shields.io/badge/C%20Sharp-%20%20%239c52ff%20?style=for-the-badge&logo=sharp&logoColor=%20%23ffffff%20&labelColor=%20%236f00c5%20)
-![42 Badge](https://img.shields.io/badge/42%20Istanbul%20La%20Piscine-black?style=for-the-badge&logo=42&logoColor=black&labelColor=white)
-![Static Badge](https://img.shields.io/badge/HTML-%20%20%23ff4b00%20?style=for-the-badge&logo=html5&logoColor=%20%23ffffff%20&labelColor=%20%23ff903e%20)
-![Static Badge](https://img.shields.io/badge/CSS3-%20%20%230051ff%20?style=for-the-badge&logo=CSS3&logoColor=%20%23ffffff%20&labelColor=%20%23719eff%20)
-![Static Badge](https://img.shields.io/badge/Ubuntu-%20%20%20%23ffdd00%20?style=for-the-badge&logo=ubuntu&logoColor=ffffff&labelColor=%20%23ff9d00%20)
-![Static Badge](https://img.shields.io/badge/Github%20Education%20Student-%23878787?style=for-the-badge&logo=Github&logoColor=000000&labelColor=bfbfbf)
+<img src="https://img.shields.io/badge/GitHub%20Edu%20Student-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=666666" height="40">
+<img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=ff7043" height="40">
+<img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=5c6bc0" height="40">
+<img src="https://img.shields.io/badge/C%20(Learning)-43a047?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=80e27e" height="40">
+<img src="https://img.shields.io/badge/Linux%20User-616161?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=b0bec5" height="40">
+<img src="https://img.shields.io/badge/C%20Sharp-4a148c?style=for-the-badge&logo=sharp&logoColor=ffffff&labelColor=d1c4e9" height="40">
+<img src="https://img.shields.io/badge/42%20İstanbul-000000?style=for-the-badge&logo=42&logoColor=ffffff&labelColor=808080" height="40">
+<img src="https://img.shields.io/badge/Godot-263238?style=for-the-badge&logo=godot-engine&logoColor=ffffff&labelColor=455a64" height="40">
+<img src="https://img.shields.io/badge/Java-Java-ff5722?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=e57373" height="40">
+<img src="https://img.shields.io/badge/VS%20Code-0288d1?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=0288d1" height="40">
+<img src="https://img.shields.io/badge/Vim-4caf50?style=for-the-badge&logo=vim&logoColor=ffffff&labelColor=81c784" height="40">
 
 
 
