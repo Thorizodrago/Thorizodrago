@@ -20,6 +20,8 @@ Hi, my name is Efe. But people usually call me Thor. Originally, i am a game dev
 <img src="https://img.shields.io/badge/Java-ee4b2b?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=ee4b2b" height="40">
 <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=007acc" height="40">
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=ffffff&labelColor=019733" height="40">
+<img src="https://img.shields.io/badge/RiseIn%20(Learner)-ff69b4?style=for-the-badge&logoColor=ffffff&labelColor=ff69b4" height="40">
+
 
 
 
